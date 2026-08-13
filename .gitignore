@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+lamp.state
+lamp.state.tmp
+lamp.log
