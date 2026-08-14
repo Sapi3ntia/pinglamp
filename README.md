@@ -1,5 +1,7 @@
 # pinglamp
 
+Just a lamp, turn it on, turn it off.
+
 A shared virtual lamp. Anyone who connects can flip it ON or OFF. Everyone
 currently connected sees it happen live, the instant anyone else flips it.
 
