@@ -1,8 +1,8 @@
 # pinglamp
 
-Just a lamp, turn it on, turn it off.
+just a lamp, turn it on, turn it off.
 
-A shared virtual lamp. Anyone who connects can flip it ON or OFF. Everyone
+a shared virtual lamp. Anyone who connects can flip it ON or OFF. Everyone
 currently connected sees it happen live, the instant anyone else flips it.
 
 No accounts. No auth. No hardware. One boolean in server memory, broadcast
